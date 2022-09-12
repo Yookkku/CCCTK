@@ -3,4 +3,4 @@
 
 主要代码在last_app上
 
-运用简单的Tkinter
+从简单的Tkinter，转到简单的ttkboostrap
